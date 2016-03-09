@@ -2,6 +2,8 @@
 In use with my udemy course 
 Create your own CDN with Varnish & Nginx 
 
+[Udemy Course](https://www.udemy.com/setupwebservernginxvarnish/)
+
 License
 ---------------------------------
 The MIT License (MIT)
